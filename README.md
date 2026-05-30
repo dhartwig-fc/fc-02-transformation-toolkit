@@ -1,10 +1,59 @@
 # financial-crime-ai-toolkit
-A portfolio of AI-enabled Financial Crime prototypes demonstrating alert triage, investigator copilots, network analytics and workflow optimisation across AML, TBML, correspondent banking and capital markets compliance.
+A portfolio of strategy, governance, architecture, analytics and prototype assets demonstrating how AI can transform Financial Crime Operations.
 
 # Strategic Vision
 The objective of this toolkit is to demonstrate how Artificial Intelligence, Analytics, Workflow Automation and Network Intelligence can transform Financial Crime Operations while maintaining strong governance, explainability and regulatory compliance.
 
-## Toolkit Components
+# Toolkit Components
+
+| # | Component | Category | Description | Status |
+|---|---|---|---|---|
+| 1 | AI-Enabled Investigator Copilot | Prototype | Alert summarisation, investigator guidance and case documentation support | Concept |
+| 2 | AML Alert Triage Prototype | Prototype | Risk scoring, alert prioritisation and investigator workflow support | Built |
+| 3 | Financial Crime Risk Typology Library | Intelligence | Structured catalogue of AML, TBML, Correspondent Banking and Capital Markets risk scenarios | Draft |
+| 4 | Financial Crime Network Analytics | Analytics | Entity resolution, beneficial ownership and hidden relationship analysis | Planned |
+| 5 | Correspondent Banking Analytics Toolkit | Analytics | Payment flows, sanctions exposure and nested relationship analysis | Planned |
+| 6 | Trade Finance & TBML Analytics Toolkit | Analytics | Trade-based money laundering detection and trade pattern analysis | Planned |
+| 7 | Capital Markets Surveillance Toolkit | Analytics | Market abuse, insider dealing and surveillance analytics concepts | Planned |
+| 8 | AI Governance Framework for AML Operations | Governance | Governance, controls, explainability and AI risk management framework | Draft |
+| 9 | Target Operating Model (TOM) | Strategy | Current-state and future-state operating model design | Draft |
+| 10 | Quantexa + AI Integration Blueprint | Architecture | Integration design for network analytics and AI-enabled investigation workflows | Draft |
+| 11 | Business Case & Benefits Realisation Framework | Strategy | Benefits tracking, ROI assessment and transformation value case | Draft |
+| 12 | Executive Board Presentation | Strategy | Executive-level transformation vision and investment proposal | Draft |
+| 13 | Proof of Concept Backlog & Jira Pack | Delivery | Product backlog, user stories and sprint planning artefacts | Draft |
+| 14 | Python Transaction Analytics Prototype | Technical Demonstration | Python-based transaction monitoring and risk scoring prototype | Built |
+| 15 | SAR Narrative Generator | Prototype | AI-assisted SAR drafting and case documentation support | Planned |
+
+## Portfolio Architecture
+The toolkit is organised into six complementary layers, demonstrating how financial crime typologies can be translated into analytics, AI-enabled investigator workflows, governance controls and operational delivery assets.
+
+### Intelligence Layer
+- Financial Crime Risk Typology Library
+
+### Analytics Layer
+- AML Alert Triage Prototype
+- Financial Crime Network Analytics
+- Correspondent Banking Analytics Toolkit
+- Trade Finance & TBML Analytics Toolkit
+- Capital Markets Surveillance Toolkit
+
+### AI Enablement Layer
+- AI Investigator Copilot
+- SAR Narrative Generator
+
+### Governance & Strategy Layer
+- AI Governance Framework
+- Target Operating Model
+- Quantexa + AI Integration Blueprint
+- Business Case & Benefits Framework
+- Executive Board Presentation
+
+### Delivery Layer
+- Pilot Delivery Plan
+- Proof of Concept Backlog & Jira Pack
+
+### Technical Demonstration Layer
+- Python Transaction Analytics Prototype
 
 ## 1. AI-Enabled Investigator Copilot
 
@@ -17,35 +66,157 @@ The objective of this toolkit is to demonstrate how Artificial Intelligence, Ana
 | SAR Drafting | Create Suspicious Activity Report draft narratives |
 
 ## 2. AML Alert Triage Prototype
-(Python Prototype)
-Provides:
-	●	Risk scoring
-	●	Alert prioritisation
-	●	Investigator summaries
-	●	Dashboard visualisation
+
+| Capability | Description |
+|------------|-------------|
+| Risk Scoring | Assign configurable risk scores to alerts based on defined risk indicators |
+| Alert Prioritisation | Rank alerts by severity and business risk |
+| Geographic Risk Detection | Identify exposure to high-risk jurisdictions |
+| Transaction Value Analysis | Detect unusual transaction values against expected behaviour |
+| Customer Risk Assessment | Incorporate customer risk ratings into alert scoring |
+| Investigator Summary Generation | Produce concise investigator-ready case summaries |
+| Dashboard Visualisation | Present risk trends and alert metrics through dashboards |
+| Workflow Support | Assist triage and investigation prioritisation decisions |
+| Risk Reason Attribution | Explain why alerts received a specific score |
+| Alert Queue Management | Support workload balancing and case allocation |
 
 ## 3. Financial Crime Risk Typology Library
-A structured catalogue of Financial Crime risk scenarios covering:
-	●	AML
-	●	TBML
-	●	Correspondent Banking
-	●	Capital Markets
-	●	Sanctions
-	●	Network Analytics
-	●	Fraud
-	●	Customer Risk
+
+| Capability | Description |
+|------------|-------------|
+| AML Typologies | Catalogue common money laundering scenarios and red flags |
+| TBML Typologies | Document trade-based money laundering techniques and indicators |
+| Correspondent Banking Typologies | Capture payment flow, nested banking and sanctions risks |
+| Capital Markets Typologies | Define market abuse and surveillance risk scenarios |
+| Sanctions Typologies | Identify sanctions evasion methods and exposure indicators |
+| Customer Risk Typologies | Catalogue PEP, adverse media and ownership-related risks |
+| Network Risk Typologies | Define hidden relationship and connected-party risk scenarios |
+| Fraud Typologies | Document account takeover, mule account and payment fraud risks |
+| Emerging Threat Library | Track new and evolving financial crime methodologies |
+| Detection Logic Mapping | Link typologies to monitoring rules and analytics use cases |
+| Investigator Guidance | Provide investigative considerations for each typology |
+| Risk Indicator Catalogue | Maintain a reusable library of risk indicators and triggers |
 
 ## 4. Financial Crime Network Analytics
-Provides:
-	●	Entity resolution
-	●	Beneficial ownership mapping
-	●	Hidden relationship detection
-	●	Connected party risk analysis
 
-## 5. Quantexa + AI Integration Blueprint
-Provides:
-	●	Network analytics integration
-	●	Copilot workflow integration
-	●	Investigator experience design
-	●	Future-state architecture
+| Capability | Description |
+|------------|-------------|
+| Entity Resolution | Identify duplicate or related customer records across multiple systems |
+| Beneficial Ownership Mapping | Trace ownership structures to ultimate beneficial owners |
+| Hidden Relationship Detection | Discover indirect links between customers, counterparties and entities |
+| Connected Party Analysis | Identify exposure across customer and counterparty networks |
+| Network Risk Scoring | Assess risk at network level rather than individual entity level |
+| Watchlist Link Analysis | Detect connections to sanctions, PEP and adverse media subjects |
+| Relationship Visualisation | Display entity networks graphically for investigators |
+
+## 5. Correspondent Banking Analytics Toolkit
+
+| Capability | Description |
+|------------|-------------|
+| Nested Banking Analysis | Detect downstream respondent bank exposure |
+| Sanctions Exposure | Identify indirect sanctions risk |
+| Payment Flow Analytics | Analyse cross-border payment behaviour |
+| Funnel Account Detection | Identify pass-through account activity |
+| Routing Risk Assessment | Detect unusual payment routing patterns |
+
+## 6. Trade Finance & TBML Analytics Toolkit
+
+| Capability | Description |
+|------------|-------------|
+| Bill of Lading Analysis | Review shipping documentation anomalies |
+| Trade Pattern Monitoring | Detect unusual trade activity |
+| U-Turn Trade Detection | Identify circular trade arrangements |
+| Third-Party Shipment Analysis | Detect unusual shipping routes |
+| Invoice Risk Detection | Identify duplicate or inflated invoices |
+
+## 7. Capital Markets Surveillance Toolkit
+
+| Capability | Description |
+|------------|-------------|
+| Market Abuse Monitoring | Detect suspicious trading behaviour |
+| Insider Trading Detection | Identify insider dealing indicators |
+| Trading Pattern Analytics | Monitor abnormal trading activity |
+| Customer Risk Assessment | Assess trading-related customer risk |
+| Alert Generation | Produce surveillance alerts for review |
+
+## 8. AI Governance Framework for AML Operations
+
+| Capability | Description |
+|------------|-------------|
+| Governance Principles | Define AI governance standards |
+| Explainability Controls | Ensure transparent AI decision-making |
+| Risk Management | Assess model and operational risks |
+| Human Oversight | Support human-in-the-loop review |
+| Regulatory Alignment | Align AI usage with compliance obligations |
+
+## 9. Target Operating Model (TOM)
+
+| Capability | Description |
+|------------|-------------|
+| Current State Assessment | Document existing processes and challenges |
+| Future State Design | Define target operating model |
+| Process Mapping | Map end-to-end workflows |
+| Role Definition | Define future investigator responsibilities |
+| Transformation Roadmap | Plan implementation phases |
+
+## 10. Quantexa + AI Integration Blueprint
+
+| Capability | Description |
+|------------|-------------|
+| Network Analytics Integration | Connect entity resolution outputs to AI workflows |
+| Data Architecture Design | Define integration architecture |
+| Investigation Workflow Integration | Embed AI into case management processes |
+| Context Enrichment | Enhance alerts with network intelligence |
+| Solution Blueprint | Define future-state technical architecture |
+
+## 11. Business Case & Benefits Realisation Framework 
+
+| Capability | Description |
+|------------|-------------|
+| Cost Benefit Analysis | Evaluate financial impact |
+| ROI Assessment | Measure investment returns |
+| Benefits Tracking | Monitor realised outcomes |
+| KPI Framework | Define transformation metrics |
+| Executive Reporting | Present benefits to stakeholders |
+
+## 12. Executive Board Presentation
+
+| Capability | Description |
+|------------|-------------|
+| Strategic Vision | Present transformation objectives |
+| Investment Case | Justify funding requirements |
+| Risk Assessment | Outline delivery and operational risks |
+| Target Outcomes | Define expected business benefits |
+| Executive Messaging | Support senior stakeholder engagement |
+
+## 13. Proof of Concept Backlog & Jira Pack 
+
+| Capability | Description |
+|------------|-------------|
+| Product Backlog | Define development requirements |
+| User Stories | Document user needs |
+| Sprint Planning | Organise delivery activities |
+| Acceptance Criteria | Define success measures |
+| Delivery Tracking | Support agile project management |
+
+## 14. Python Transaction Analytics Prototype
+
+| Capability | Description |
+|------------|-------------|
+| Transaction Scoring | Calculate transaction risk scores |
+| Rule-Based Analytics | Apply financial crime detection rules |
+| Data Visualisation | Produce charts and dashboards |
+| Alert Generation | Generate alerts from transaction data |
+| Python Demonstration | Showcase analytics capability using Python |
+
+## 15. SAR Narrative Generator
+
+| Capability | Description |
+|------------|-------------|
+| Narrative Drafting | Generate SAR narrative text |
+| Risk Summary Creation | Summarise key risk indicators |
+| Case Documentation | Support investigation records |
+| Investigator Assistance | Reduce manual documentation effort |
+| Report Preparation | Accelerate SAR submission preparation |
+
 	
