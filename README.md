@@ -7,13 +7,14 @@ The objective of this toolkit is to demonstrate how Artificial Intelligence, Ana
 ## Toolkit Components
 
 ## 1. AI-Enabled Investigator Copilot
-(Python Prototype)
-Provides:
-	●	Alert summarisation
-	●	Risk explanation
-	●	Investigator guidance
-	●	Draft case narratives
-	●	SAR drafting support
+
+| Capability | Description |
+|------------|-------------|
+| Alert Summarisation | Generate concise summaries of transaction monitoring alerts |
+| Risk Explanation | Explain key drivers behind alert scores |
+| Investigator Guidance | Recommend next investigative actions |
+| Draft Narratives | Generate investigator case notes |
+| SAR Drafting | Create Suspicious Activity Report draft narratives |
 
 ## 2. AML Alert Triage Prototype
 (Python Prototype)
