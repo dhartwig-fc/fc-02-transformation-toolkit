@@ -1,4 +1,4 @@
-# financial-crime-toolkit
+# financial-crime-ai-toolkit
 A portfolio of strategy, governance, architecture, analytics and prototype assets demonstrating how AI can transform Financial Crime Operations.
 
 # Strategic Vision
