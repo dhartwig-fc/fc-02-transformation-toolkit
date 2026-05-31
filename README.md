@@ -1,5 +1,6 @@
-Back to Portfolio
-https://dhartwig-fc.github.io
+[← Back to Portfolio](https://dhartwig-fc.github.io)
+
+[LinkedIn](https://www.linkedin.com/in/dan-hartwig-financial-crime) | [GitHub Profile](https://github.com/dhartwig-fc)
 
 # financial-crime-toolkit
 A portfolio of strategy, governance, architecture, analytics and prototype assets demonstrating how AI can transform Financial Crime Operations.
