@@ -42,7 +42,7 @@ Provides the executive showcase view of the platform, highlighting:
 - TBML analytics concepts
 - Corresponding Banking analytics concepts
 - Capital Markets analytics concepts
-- Sanctions analytics concepts
+- Sanctions Exposure Analytics and Maritime Intelligence
 - Portfolio navigation
 - How it all links into Investigator efficiency through copilot builds and a case management layer
 
@@ -74,8 +74,8 @@ fc-02 Transformation & Delivery Framework
             ▼
 
  ┌──────────────┬──────────────┬──────────────┬──────────────┬──────────────┐
- │ Network      │ TBML         │ Banking      │ Capital      │ Sanctions    │
- │ Intelligence │ Analytics    │ Analytics    │ Markets      │ Analytics    │
+ │ Network      │ TBML         │ Corr Banking │ Cap Markets  │ Sanctions Exp│
+ │ Intelligence │ Analytics    │ Analytics    │ Analytics    │ Analytics    │
  └──────────────┴──────────────┴──────────────┴──────────────┴──────────────┘
 ```
 
