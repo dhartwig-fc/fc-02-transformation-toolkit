@@ -343,7 +343,7 @@ Emerging Threat Intelligence provides the strategic input into the transformatio
 | ✅ Complete | Transformation Framework |
 | ✅ Complete  | Showcase build |
 | 🚧 In Progress | TBML Analytics Toolkit |
-| 🚧 In Progress | Sanctions Analytics Toolkit |
+| 🚧 In Progress | Sanctions Exposure Analytics Toolkit |
 | 🚧 In Progress | Banking Analytics Toolkit |
 | 🚧 In Progress | Capital Markets Analytics Toolkit |
 | Planned | AI Governance Framework |
